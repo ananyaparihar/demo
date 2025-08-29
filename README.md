@@ -1,2 +1,3 @@
 # demo
-this is my first github repo
+This is my first Github repo
+Author - Ananya Parihar
